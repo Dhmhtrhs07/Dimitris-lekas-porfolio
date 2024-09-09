@@ -38,7 +38,7 @@ const HeroContent = () => {
               {" "}
               Dimitris Lekas{" "}
             </span>
-            Web Developer & Designer
+            Web Developer
           </span>
         </motion.div>
 
