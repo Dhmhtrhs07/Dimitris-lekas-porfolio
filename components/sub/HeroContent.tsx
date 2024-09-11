@@ -45,7 +45,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-        I’m a passionate Web Developer and Designer with hands-on experience in creating dynamic and visually compelling websites. Explore my projects to see my skills in action!.
+        I’m a passionate Web Developer and Designer with hands-on experience in creating dynamic and visually compelling websites. Explore my projects to see my skills in action!
         </motion.p>
         <motion.a
   variants={slideInFromLeft(1)}
