@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-
 import { motion } from "framer-motion";
 import { slideInFromTop } from "@/utils/motion";
 import Image from "next/image";
@@ -40,7 +39,7 @@ const Encryption = () => {
           />
         </div>
 
-        <div className="Welcome-box px-[15px] py-[4px] z-[20] brder my-[20px] border-[#7042f88b] opacity-[0.9]">
+        <div className="Welcome-box px-[15px] py-[4px] z-[20] border my-[20px] border-[#7042f88b] opacity-[0.9]">
           <h1 className="Welcome-text text-[12px]">Encryption</h1>
         </div>
       </div>
@@ -57,7 +56,7 @@ const Encryption = () => {
           autoPlay
           playsInline
           preload="false"
-          className="w-full h-auto"
+          className="w-full h-[60vh] object-cover" // Enlarge the video on mobile
           src="/encryption.webm/"
         />
       </div>
