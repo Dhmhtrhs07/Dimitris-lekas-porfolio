@@ -38,7 +38,7 @@ const Projects = () => {
           title="Old Portfolio"
           description={
             <span>
-              This was my old portfolio built with Bootstrap.{" "}
+              Developed a simple, responsive portfolio website using Bootstrap to showcase my projects. Focused on clean design, mobile-friendly layouts, and ease of navigation.{" "}
               <a
                 href="https://lekasdimitrios.000.pe/"
                 target="_blank"
