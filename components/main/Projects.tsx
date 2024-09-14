@@ -35,7 +35,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Old Portfolio"
+          title="Building Portfolios"
           description={
             <span>
               Developed a simple, responsive portfolio website using Bootstrap to showcase my projects. Focused on clean design, mobile-friendly layouts, and ease of navigation.{" "}
